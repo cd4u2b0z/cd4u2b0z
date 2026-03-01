@@ -2,7 +2,7 @@
 
 **`Tinkerer`**
 
-Self-taught. Arch Linux, Hyprland, raw config files over templates. I like knowing how things work under the hood — desktop ricing, game modding, terminal toys, system provisioning, the whole rabbit hole. If something can be taken apart, themed, or rebuilt from scratch, I'm probably already in the middle of it.
+Self-taught. Arch Linux, Hyprland, raw config files over templates. I like knowing how things work under the hood, desktop ricing, game modding, terminal toys, system provisioning, the whole rabbit hole. If something can be taken apart, themed, or rebuilt from scratch, I'm probably already in the middle of it.
 
 ---
 
