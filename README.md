@@ -24,7 +24,3 @@ Self-taught. Arch Linux, Hyprland, raw config files over templates. I like knowi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### Featured
-
-[**linux-mod-organizer**](https://github.com/cd4u2b0z/linux-mod-organizer) — Native Linux mod organizer for Bethesda games using OverlayFS, inspired by MO2. Written in Rust.
