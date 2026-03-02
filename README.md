@@ -2,7 +2,7 @@
 
 **`Tinkerer`**
   Self-taught and relentlessly curious.
-  I run Arch Linux with Hyprland, favor raw config over templates, and prefer understanding systems
+  I run Arch Linux/NixOS with Hyprland, favor raw config over templates, and prefer understanding systems
   from first principles.
 
   I’m drawn to the deep end: desktop ricing, game modding, terminal experiments, and full-stack system
