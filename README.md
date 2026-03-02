@@ -1,7 +1,13 @@
 # Cdubz
 
 **`Tinkerer`**
-Self-taught. Arch Linux, Hyprland, raw config files over templates. I like knowing how things work under the hood desktop ricing, game modding, terminal toys, system provisioning, the whole rabbit hole. If something can be taken apart, themed, or rebuilt from scratch, I'm probably already in the middle of it.
+  Self-taught and relentlessly curious.
+  I run Arch Linux with Hyprland, favor raw config over templates, and prefer understanding systems
+  from first principles.
+
+  I’m drawn to the deep end: desktop ricing, game modding, terminal experiments, and full-stack system
+  provisioning.
+  If it can be disassembled, themed, optimized, or rebuilt, I’m already halfway through doing it.
 
 ---
 
