@@ -1,13 +1,9 @@
 # Cdubz
 
 **`Tinkerer`**
-  Self-taught and relentlessly curious.
-  I run Arch Linux/NixOS with Hyprland, favor raw config over templates, and prefer understanding systems
-  from first principles.
+Self-taught and relentlessly curious. I favor raw config over templates and like understanding systems from first principles.
 
-  I’m drawn to the deep end: desktop ricing, game modding, terminal experiments, and full-stack system
-  provisioning.
-  If it can be disassembled, themed, optimized, or rebuilt, I’m already halfway through doing it.
+  I’m into desktop customization, game modding, terminal experiments, and rebuilding systems to understand how they work.
 
 ---
 
