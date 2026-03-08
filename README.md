@@ -1,7 +1,7 @@
 # Cdubz
 
 **`Tinkerer`**
-Self-taught and relentlessly curious. I favor raw config over templates and like understanding systems from first principles.
+ Self-taught and relentlessly curious. I favor raw config over templates and like understanding systems from first principles.
 
   I’m into desktop customization, game modding, terminal experiments, and rebuilding systems to understand how they work.
 
